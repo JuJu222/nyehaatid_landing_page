@@ -47,11 +47,9 @@
                     MAKAN SEHAT, <br/>
                     HIDUP NYEHAAT
                 </h1>
-                <p class="text-white w-8/12 md:w-1/2 my-3 md:my-5 text-normal">Lorem, ipsum dolor sit amet consectetur
-                    adipisicing elit. Dolore pariatur quibusdam suscipit itaque ab excepturi voluptate nisi nam
-                    voluptatem molestias.</p>
+                <p class="text-white w-8/12 md:w-full my-3 md:my-5 text-normal">Bingung makan apa yang sesuai dengan penyakit anda?<br>Yuk pakai Nyehaat.id!</p>
                 <a href="/form"
-                   class="text-green rounded-md text-lg lg:text-xl bg-white py-1 lg:py-2 px-3 lg:px-5 hover:text-black">Pesan
+                   class="text-green rounded-md text-lg lg:text-xl bg-white py-1 lg:py-2 px-3 lg:px-5 hover:bg-gray-200 transition">Pesan
                     Sekarang</a>
             </div>
         </div>
@@ -80,9 +78,8 @@
             MAKAN SEHAT, <br/>
             HIDUP NYEHAAT
         </h1>
-        <p class="text-white p-5 text-normal">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore pariatur
-            quibusdam suscipit itaque ab excepturi voluptate nisi nam voluptatem molestias.</p>
-        <a href="" class="text-green rounded-md text-lg lg:text-xl bg-white py-2 px-5 hover:text-black">Pesan
+        <p class="text-white p-5 text-normal">Bingung makan apa yang sesuai dengan penyakit anda? Yuk pakai Nyehaat.id!</p>
+        <a href="" class="text-green rounded-md text-lg lg:text-xl bg-white py-2 px-5 hover:bg-gray-200 transition">Pesan
             Sekarang</a>
     </div>
 </div>
@@ -94,47 +91,47 @@
     <div class="flex justify-center items-center">
         <div class="w-11/12 xl:w-9/12">
             <div class="md:grid grid-cols-3 gap-5 xl:gap-10">
-                <div class="h-96 shadow-lg rounded-lg mb-5 md:mb-0">
-                    <img src="img/menu/1.png" alt="" class="h-1/2 w-full rounded-t-lg object-cover"/>
-                    <div class="p-3">
-                        <h2 class="text-xl mb-2">Nama Menu</h2>
+                <div class="h-fit shadow-lg rounded-lg mb-5 md:mb-0">
+                    <img src="img/menu/1.png" alt="" class="h-64 w-full rounded-t-lg object-cover"/>
+                    <div class="p-5">
+                        <h2 class="text-xl mb-2">Ayam Jahe</h2>
                         <div class="flex items-center gap-2 mb-2">
                             <p>Aman untuk</p>
                             <div class="bg-gray-200 rounded-full">
-                                <p class="text-gray-700 font-bold text-xs px-3 py-1">Diabetes</p>
+                                <p class="text-gray-700 font-bold text-xs px-3 py-1">Darah Tinggi</p>
                             </div>
                         </div>
                         <div class="grid grid-cols-3 gap-2 mb-2">
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Kalori <br/>
-                                    300 kcal
+                                    290 kcal
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Protein <br/>
-                                    300 kcal
+                                    36.7 g
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="hidden md:block lg:hidden text-center px-3 py-2">
                                     Karbo <br/>
-                                    300 kcal
+                                    23.9 g
                                 </h2>
                                 <h2 class="md:hidden lg:block text-center px-3 py-2">
                                     Karbohidrat <br/>
-                                    300 kcal
+                                    23.9 g
                                 </h2>
                             </div>
                         </div>
-                        <p>Bahan makanan</p>
+                        <p class="text-justify">Ayam jahe perpaduan kuah jahe yang gurih dan ayam lembut didukung dengan bahan-bahan makanan yang kaya akan Saponin, Alkaloid, dan Terpenoid untuk membantu menurunkan tekanan darah yang tinggi serta merelaksasikan pembuluh darah.</p>
                     </div>
                 </div>
-                <div class="h-96 shadow-lg rounded-lg mb-5 md:mb-0">
-                    <img src="img/menu/2.png" alt="" class="h-1/2 w-full rounded-t-lg object-cover"/>
-                    <div class="p-3">
-                        <h2 class="text-xl mb-2">Nama Menu</h2>
+                <div class="h-fit shadow-lg rounded-lg mb-5 md:mb-0">
+                    <img src="img/menu/2.png" alt="" class="h-64 w-full rounded-t-lg object-cover"/>
+                    <div class="p-5">
+                        <h2 class="text-xl mb-2">Tumis Jamur & Tahu Saus Tiram</h2>
                         <div class="flex items-center gap-2 mb-2">
                             <p>Aman untuk</p>
                             <div class="bg-gray-200 rounded-full">
@@ -145,64 +142,64 @@
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Kalori <br/>
-                                    300 kcal
+                                    171 kcal
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Protein <br/>
-                                    300 kcal
+                                    7.7 g
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="hidden md:block lg:hidden text-center px-3 py-2">
                                     Karbo <br/>
-                                    300 kcal
+                                    8.6 g
                                 </h2>
                                 <h2 class="md:hidden lg:block text-center px-3 py-2">
                                     Karbohidrat <br/>
-                                    300 kcal
+                                    8.6 g
                                 </h2>
                             </div>
                         </div>
-                        <p>Bahan makanan</p>
+                        <p class="text-justify">Tumis jamur dan tahu saus tiram memiliki perpaduan bahan makanan yang rendah lemak dan kalori sehingga menjaga kadar gula darah anda tetap rendah. Penggunaan nasi merah menjadi alternatif yang pas untuk menggantikan nasi putih yang memiliki kandungan gula yang tinggi.</p>
                     </div>
                 </div>
-                <div class="h-96 shadow-lg rounded-lg">
-                    <img src="img/menu/3.png" alt="" class="h-1/2 w-full rounded-t-lg object-cover"/>
-                    <div class="p-3">
-                        <h2 class="text-xl mb-2">Nama Menu</h2>
+                <div class="h-fit shadow-lg rounded-lg">
+                    <img src="img/menu/3.png" alt="" class="h-64 w-full rounded-t-lg object-cover"/>
+                    <div class="p-5">
+                        <h2 class="text-xl mb-2">Pea & Spinach Carbonara</h2>
                         <div class="flex items-center gap-2 mb-2">
                             <p>Aman untuk</p>
                             <div class="bg-gray-200 rounded-full">
-                                <p class="text-gray-700 font-bold text-xs px-3 py-1">Diabetes</p>
+                                <p class="text-gray-700 font-bold text-xs px-3 py-1">Penyakit Jantung</p>
                             </div>
                         </div>
                         <div class="grid grid-cols-3 gap-2 mb-2">
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Kalori <br/>
-                                    300 kcal
+                                    430 kcal
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="text-center px-3 py-2">
                                     Protein <br/>
-                                    300 kcal
+                                    20.2 g
                                 </h2>
                             </div>
                             <div class="rounded-md bg-green text-white text-xs">
                                 <h2 class="hidden md:block lg:hidden text-center px-3 py-2">
                                     Karbo <br/>
-                                    300 kcal
+                                    54.1 g
                                 </h2>
                                 <h2 class="md:hidden lg:block text-center px-3 py-2">
                                     Karbohidrat <br/>
-                                    300 kcal
+                                    54.1 g
                                 </h2>
                             </div>
                         </div>
-                        <p>Bahan makanan</p>
+                        <p class="text-justify">Pea & Spinach Carbonara didukung dengan bahan-bahan yang penuh dengan vitamin-K, bersodium rendah, dan rendah lemak untuk membantu menjaga arteri dan mendukung pembekuan darah yang cepat, sehingga sangat sehat untuk jantung.</p>
                     </div>
                 </div>
             </div>
@@ -240,41 +237,39 @@
 </div>
 
 <div style="background-image: url(img/PromoBg.png)" class="bg-cover bg-no-repeat h-96" id="promo">
-    <h1 class="text-center text-green text-3xl md:text-5xl pt-6 md:pt-10">Free Delivery</h1>
-    <p class="text-center mt-2 px-5 text-2xl">Dapatkan gratis ongkir untuk transaksi pertama anda.</p>
-    <div class="flex justify-center py-3">
-        <a href="/form"
-           class="text-white rounded-md text-lg lg:text-xl bg-green py-1 lg:py-2 px-3 lg:px-5 hover:text-black">Dapatkan
-            Promo Sekarang</a>
+    <div class="flex flex-col justify-center items-center h-full">
+        <h1 class="text-center text-green text-3xl md:text-5xl">Free Delivery</h1>
+        <p class="text-center mt-2 px-5 text-2xl">Dapatkan gratis ongkir untuk transaksi pertama anda.</p>
+        <div class="flex justify-center py-3">
+            <a href="/form"
+               class="text-white rounded-md text-lg lg:text-xl bg-green py-1 lg:py-2 px-3 lg:px-5 hover:bg-gr-600 transition">Dapatkan
+                Promo Sekarang</a>
+        </div>
     </div>
 </div>
 
 <div class="bg-green" id="testimoni">
     <h1 class="text-center text-white text-6xl pt-10">"</h1>
-    <div class="lg:grid grid-cols-3 gap-20 px-5 md:px-10">
+    <div class="lg:grid grid-cols-3 gap-20 px-5 md:px-10 flex flex-row items-center">
         <div class="pb-5 md:pb-0">
             <p class="text-center text-white text-xl md:text-2xl">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores dolores illum mollitia amet totam
-                repellat sit dolorem eum, aut reiciendis veniam inventore explicabo deserunt, provident quaerat itaque,
-                aliquid esse optio.
+                Pertama kali menjadi customer Nyehaat.id, saya sangat terkesan dengan menu Nasi Ayam Jahe yang disajikan
+                untuk pengidap Diabetes dan darah tinggi. Ayamnya dan nasinya semuanya nikmat! Tidak lupa, pelayanannya
+                selalu datang pada waktu yang tepat dan makanannya terbungkus rapi.
             </p>
             <h2 class="text-center text-white text-xl md:text-2xl py-5">Rafi</h2>
         </div>
         <div class="pb-5 md:pb-0">
-            <p class="text-center text-white text-xl md:text-2xl">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores dolores illum mollitia amet totam
-                repellat sit dolorem eum, aut reiciendis veniam inventore explicabo deserunt, provident quaerat itaque,
-                aliquid esse optio.
-            </p>
-            <h2 class="text-center text-white text-xl md:text-2xl py-5">Rafi</h2>
+            <p class="text-center text-white text-xl md:text-2xl">Bakal pesan lagi! Nyehaat.id berhasil membuat pola
+                makan saya semakin sehat dalam kurun waktu 1 minggu setelah memakai pelayanan mereka. Terima kasih
+                Nyehaat.id</p>
+            <h2 class="text-center text-white text-xl md:text-2xl py-5">Abdul</h2>
         </div>
         <div class="pb-5 md:pb-0">
-            <p class="text-center text-white text-xl md:text-2xl">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores dolores illum mollitia amet totam
-                repellat sit dolorem eum, aut reiciendis veniam inventore explicabo deserunt, provident quaerat itaque,
-                aliquid esse optio.
-            </p>
-            <h2 class="text-center text-white text-xl md:text-2xl py-5">Rafi</h2>
+            <p class="text-center text-white text-xl md:text-2xl">Nyehaat.id keren! Layanan ini berhasil membantu saya
+                dan anak perempuan saya untuk menurunkan berat badan dan glukosa di darah kami tanpa kontrol dokter
+                berlanjut! Terima kasih banyak Nyehaat.id</p>
+            <h2 class="text-center text-white text-xl md:text-2xl py-5">Setya</h2>
         </div>
     </div>
 </div>

@@ -32,6 +32,7 @@ module.exports = {
             yellow: colors.yellow,
             lime: colors.lime,
             green: "#00c036",
+            gr: colors.green,
             emerald: colors.emerald,
             teal: colors.teal,
             cyan: colors.cyan,
