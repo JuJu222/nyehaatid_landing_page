@@ -250,7 +250,7 @@
 
 <div class="bg-green" id="testimoni">
     <h1 class="text-center text-white text-6xl pt-10">"</h1>
-    <div class="lg:grid grid-cols-3 gap-20 px-5 md:px-10 flex flex-row items-center">
+    <div class="lg:grid grid-cols-3 gap-20 px-5 md:px-10 md:flex md:flex-row md:items-center">
         <div class="pb-5 md:pb-0">
             <p class="text-center text-white text-xl md:text-2xl">
                 Pertama kali menjadi customer Nyehaat.id, saya sangat terkesan dengan menu Nasi Ayam Jahe yang disajikan
